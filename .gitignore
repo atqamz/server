@@ -3,3 +3,5 @@ nginx/*
 
 www/*
 !www/index.php
+
+temp/*
